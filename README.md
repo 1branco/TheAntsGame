@@ -1,6 +1,6 @@
 # FormigasCpp
 
-Projecto/Trabalho em C++
+Projecto/Trabalho em C++ com contribuição de danielpinto8zz6 ( https://github.com/danielpinto8zz6 )
 
 " Pretende-se um programa em C++ para simulação de populações de formigas. O espaço onde
 as formigas vivem (o seu mundo) é plano e pode ser entendido como uma espécie de grelha
